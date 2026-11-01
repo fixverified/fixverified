@@ -17,6 +17,6 @@ I look for ways an agent can pass a benchmark without doing the task, and report
 - Whether those preferences carry over into real tasks
 - Stress-testing evaluators, not just the models they score
 
-**Background:** Ex-EA. Retired speedrunner, [featured in Game Informer #182, p. 36](https://library.gamehistory.org/repositories/2/digital_objects/8320). Now I find exploits in AI evals instead of games.
+**Background:** Ex-EA, ex-Wahoo Fitness. Part of the three-person team behind Ally Financial's first production LLM use case, and designed live model performance evaluators. Retired speedrunner, [featured in Game Informer #182, p. 36](https://library.gamehistory.org/repositories/2/digital_objects/8320). Now I find exploits in AI evals instead of games.
 
 **Contact:** fixverified@gmail.com
