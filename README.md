@@ -15,7 +15,6 @@ I look for ways an agent can pass a benchmark without doing the task, and report
 **What I'm working on**
 
 - Baseline preferences, personality and bias in models with no persona
-- Whether those preferences carry over into real tasks
 - Stress-testing evaluators, not just the models they score
 
 **Background:** Engineering and testing in AI/ML.
