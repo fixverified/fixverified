@@ -18,6 +18,6 @@ I look for ways an agent can pass a benchmark without doing the task, and report
 - Whether those preferences carry over into real tasks
 - Stress-testing evaluators, not just the models they score
 
-**Background:** Ex-EA, ex-Wahoo Fitness. Part of a small team behind Ally Financial's first production LLM use case, and designed live model performance evaluators. Retired speedrunner. Now I find exploits in AI evals instead of games.
+**Background:** Engineering and testing in AI/ML.
 
 **Contact:** fixverified@gmail.com
