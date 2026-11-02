@@ -5,6 +5,7 @@ I test what AI models do when they have to choose, and whether the evals measuri
 **Benches**
 
 - [partisan-cue-bench](https://github.com/fixverified/partisan-cue-bench): 192 bills, forced yes/no votes, swapped party labels. `gpt-6.1-sol` backed 98% of left-coded bills and 1% of right-coded bills.
+- [rag-eval-suite](https://github.com/fixverified/rag-eval-suite): copy-and-paste RAG evaluators, each measured on the same planted failures. On wrong numbers, `token_f1` and `bleu` caught 0%, and an LLM judge with prompts tuned on dev data caught 100%.
 - [big5-bench](https://github.com/fixverified/big5-bench): 300 Big Five items, both scale directions, 7,200 answers. Four models gave themselves almost the same personality.
 
 **Evaluator audits**
